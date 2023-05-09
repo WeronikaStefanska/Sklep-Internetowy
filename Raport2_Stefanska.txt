@@ -1,0 +1,24 @@
+Weronika Stefanska
+Raport 2
+
+Dodane funkcjonalności:
+- Szkielet strony (nagłówek z logo i stopka z informacjami)
+- Poszczególne podstrony, w tym: 
+  + Strona głowna
+  + Koszyk
+  + Formularz kontaktowy
+  + Strona produktów
+- Działające odnośniki do mediów społecznościowych
+- Pasek menu (rozwijalny przy mniejszej szerokości ekranu)
+- Lista bestsellerów
+
+Do ukończenia:
+- Baza danych
+- Logowanie i rejestracja
+- Funkcjonalność koszyka i listy ulubionych
+
+Aktualizacje:
+#23.04
+Utworzenie strony głównej oraz menu 
+#30.04
+Utworzenie podstron, listy bestsellerów
