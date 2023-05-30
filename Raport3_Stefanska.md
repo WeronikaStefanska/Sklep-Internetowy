@@ -16,7 +16,7 @@ Rozwiazanie: Ctrl + Shift + I oraz sprawdzanie na biezaco w konsoli przegladarki
 dodatkowo: sprawdzanie error log apache daje duzo informacji na temat bledow przy laczeniu bazy danych
 
 # Archiwum aktualizacji
-20.05.2023 - Utworzenie bazy danych
-21.05.2023 - Utworzenie pierwszej wersji kodu PHP
-23.05.2023 - Uproszczenie html
-28.05.2023 - Poprawienie i stworzenie ostatecznej wersji kodu PHP, wszelkie zastosowanie bazy danych, uzupelnienie CSS dla malych ekranow
++ 20.05.2023 - Utworzenie bazy danych
++ 21.05.2023 - Utworzenie pierwszej wersji kodu PHP
++ 23.05.2023 - Uproszczenie html
++ 28.05.2023 - Poprawienie i stworzenie ostatecznej wersji kodu PHP, wszelkie zastosowanie bazy danych, uzupelnienie CSS dla malych ekranow
